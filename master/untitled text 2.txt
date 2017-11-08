@@ -3,7 +3,7 @@
 
 
  modified 8 Nov 2017
- by Scott Fitzgerald
+ by CPY
  http://www.arduino.cc/en/Tutorial/Sweep
 */
 
